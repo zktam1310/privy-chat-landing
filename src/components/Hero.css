@@ -107,4 +107,9 @@
   .hero-cta {
     justify-content: center;
   }
+
+  .hero-image {
+    max-height: 250px;
+    margin-bottom: 20px;
+  }
 }
